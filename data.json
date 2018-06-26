@@ -4,6 +4,9 @@
     "email":"kanakadurgagogu525@gmail.com",
     "mobile":"+91-9585657896"
   },
+ "careeer":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
   "education":[{
     "degree":"B-Tech",
     "institute":"PSCMR",
@@ -21,5 +24,34 @@
   "institute":"VIDYA VIKAS",
   "data":["2012-2013","8.2"]
 }
-  ]
+],
+"achivements":[
+  {
+    "name":"certified by <b>1<sup>st</sup>SOLOLEARN</b> <q>in PHP,HTML</q>"
+  },
+  {
+    "name":"Awared as <b>2<sup>st</sup>Prize</b> in Energy conservation"
+  }
+],
+"skills":[
+  {
+    "name":"Programing Languages",
+    "data":["C","JAVA","Python","C++"]
+  },
+  {
+    "name":"Data Base",
+    "data":["MYsql","Oracle"]
+  },
+  {
+    "name":"Web technologies",
+    "data":["HTML","JAVAScript","Ruby","Css"]
+  },
+  {
+    "name":"Libraries and Framework",
+    "data":["JQuery","CodeIgniter"]
+  }
+
+]
+
+
 }
